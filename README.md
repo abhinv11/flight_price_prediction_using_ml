@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Abhinav Kumar**
 - GitHub: [@abhinv11](https://github.com/abhinv11)
-- LinkedIn: [Connect with me](https://linkedin.com/in/abhinav-kumar)
+- LinkedIn: [Connect with me](https://linkedin.com/in/abhinavjaswal001)
 
 ## 🙏 Acknowledgments
 
