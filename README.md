@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Abhinav Kumar**
+**Abhinav Jaswal**
 - GitHub: [@abhinv11](https://github.com/abhinv11)
 - LinkedIn: [Connect with me](https://linkedin.com/in/abhinavjaswal001)
 
